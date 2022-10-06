@@ -1,6 +1,6 @@
 <header>
     <h1>
-        <img src="//poll.svg" alt="Poll Logo">
+        <img src="/src/lib/poll.svg" alt="Poll Logo">
     </h1>
 </header>
 
